@@ -4,10 +4,58 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="index.css">
+    <script type="module" src="frame-data.js"></script>
     <script src="index.js"></script>
-    <title>Document</title>
+    <title>Link Timer</title>
 </head>
+
 <body>
-    <h1>Teset</h1>
+
+    <div id="char-div">
+        <h1 id="char-name">Current Character: AKI</h1>
+        <select name="fighter-select" id="fighters-combobox">
+            <option value="aki">AKI</option>
+            <option value="aku">Akuma</option>
+            <option value="alx">Alex</option>
+            <option value="bsn">Bison</option>
+            <option value="blk">Blanka</option>
+            <option value="cmy">Cammy</option>
+            <option value="chn">Chun-Li</option>
+            <option value="djy">Dee Jay</option>
+            <option value="dsm">Dhalsim</option>
+            <option value="ed">Ed</option>
+            <option value="eln">Elena</option>
+            <option value="gui">Guile</option>
+            <option value="hnd">Honda</option>
+            <option value="jam">Jamie</option>
+            <option value="jp">JP</option>
+            <option value="jur">Juri</option>
+            <option value="ken">Ken</option>
+            <option value="kim">Kimberly</option>
+            <option value="lil">Lily</option>
+            <option value="luk">Luke</option>
+            <option value="mai">Mai</option>
+            <option value="man">Manon</option>
+            <option value="mrs">Marisa</option>
+            <option value="rsd">Rashid</option>
+            <option value="ryu">Ryu</option>
+            <option value="sgt">Sagat</option>
+            <option value="ter">Terry</option>
+            <option value="vpr">Viper</option>
+            <option value="zgf">Zangief</option>
+        </select>
+        <button type="button" id="character-change-button" onclick="changeCharacter()">Change</button>
+    </div>
+    
+    <div id="atk-div">
+        <h3 id="atk-label">Append Attack</h3>
+        <select id="atk-combobox"></select>
+        <button type="button" id="add-attack-button">Add Attack</button>
+    </div>
+    <div id="combo-div">
+        <input id="sequence-box" type="text">
+        <button type="button" id="reset-button">Reset</button>
+        <button type="button" id="mode-button" onclick="switchMode()">Combo</button>
+    </div>
 </body>
 </html>
