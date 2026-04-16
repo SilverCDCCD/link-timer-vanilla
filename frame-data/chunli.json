@@ -1,0 +1,482 @@
+{
+	"Stand LP": {
+		"official-name": "Stand LP",
+		"nickname": "Stand Jab",
+		"classic-command": "5LP",
+		"modern-command": "",
+		"hit-frames": 22,
+		"whiff-frames": 13,
+		"cancel-frames": 13
+	},
+	"Stand MP": {
+		"official-name": "Stand MP",
+		"nickname": "Stand Strong",
+		"classic-command": "5MP",
+		"modern-command": "",
+		"hit-frames": 29,
+		"whiff-frames": 18,
+		"cancel-frames": 16
+	},
+	"Stand HP": {
+		"official-name": "Stand HP",
+		"nickname": "Stand Fierce",
+		"classic-command": "5HP",
+		"modern-command": "",
+		"hit-frames": 48,
+		"whiff-frames": 35,
+		"cancel-frames": 26
+	},
+	"Stand LK": {
+		"official-name": "Stand LK",
+		"nickname": "Stand Short",
+		"classic-command": "5LK",
+		"modern-command": "",
+		"hit-frames": 26,
+		"whiff-frames": 17,
+		"cancel-frames": 14
+	},
+	"Stand MK": {
+		"official-name": "Stand MK",
+		"nickname": "Stand Forward",
+		"classic-command": "5MK",
+		"modern-command": "",
+		"hit-frames": 37,
+		"whiff-frames": 26,
+		"cancel-frames": 18
+	},
+	"Stand HK": {
+		"official-name": "Stand HK",
+		"nickname": "Stand Roundhouse",
+		"classic-command": "5HK",
+		"modern-command": "",
+		"hit-frames": 47,
+		"whiff-frames": 34,
+		"cancel-frames": 27
+	},
+	"Crouch LP": {
+		"official-name": "Crouch LP",
+		"nickname": "Low Jab",
+		"classic-command": "2LP",
+		"modern-command": "",
+		"hit-frames": 22,
+		"whiff-frames": 13,
+		"cancel-frames": 13
+	},
+	"Crouch MP": {
+		"official-name": "Crouch MP",
+		"nickname": "Low Strong",
+		"classic-command": "2MP",
+		"modern-command": "",
+		"hit-frames": 33,
+		"whiff-frames": 23,
+		"cancel-frames": 17
+	},
+	"Crouch HP": {
+		"official-name": "Crouch HP",
+		"nickname": "Low Fierce",
+		"classic-command": "2HP",
+		"modern-command": "",
+		"hit-frames": 55,
+		"whiff-frames": 41,
+		"cancel-frames": 33
+	},
+	"Crouch LK": {
+		"official-name": "Crouch LK",
+		"nickname": "Low Short",
+		"classic-command": "2LK",
+		"modern-command": "",
+		"hit-frames": 24,
+		"whiff-frames": 15,
+		"cancel-frames": 13
+	},
+	"Crouch MK": {
+		"official-name": "Crouch MK",
+		"nickname": "Low Forward",
+		"classic-command": "2MK",
+		"modern-command": "",
+		"hit-frames": 37,
+		"whiff-frames": 28,
+		"cancel-frames": 16
+	},
+	"Crouch HK": {
+		"official-name": "Crouch HK",
+		"nickname": "Sweep",
+		"classic-command": "2HK",
+		"modern-command": "",
+		"hit-frames": 46,
+		"whiff-frames": 35,
+		"cancel-frames": 22
+	},
+	"Swift Thrust": {
+		"official-name": "Swift Thrust",
+		"nickname": "Stabby Hands",
+		"classic-command": "4MP or 6MP",
+		"modern-command": "4M or 6M",
+		"hit-frames": 35,
+		"whiff-frames": 24,
+		"cancel-frames": 18
+	},
+	"Hakkei": {
+		"official-name": "Hakkei",
+		"nickname": "Palms",
+		"classic-command": "4HP",
+		"modern-command": "",
+		"hit-frames": 40,
+		"whiff-frames": 27,
+		"cancel-frames": 21
+	},
+	"Water Lotus Fist": {
+		"official-name": "Water Lotus Strike",
+		"nickname": "Overhead",
+		"classic-command": "3HP",
+		"modern-command": "",
+		"hit-frames": 51,
+		"whiff-frames": 38,
+		"cancel-frames": 34
+	},
+	"Yokusen Kick": {
+		"official-name": "Yokusen Kick",
+		"nickname": "Hop Kick",
+		"classic-command": "6HK",
+		"modern-command": "",
+		"hit-frames": 53,
+		"whiff-frames": 40,
+		"cancel-frames": 29
+	},
+	"Falling Crane": {
+		"official-name": "Falling Crane",
+		"nickname": "Flip Kick",
+		"classic-command": "3HK",
+		"modern-command": "",
+		"hit-frames": 64,
+		"whiff-frames": 51,
+		"cancel-frames": null
+	},
+	"Serenity Stream (Enter)": {
+		"official-name": "Serenity Stream",
+		"nickname": "Enter Stance",
+		"classic-command": "214P",
+		"modern-command": "",
+		"hit-frames": null,
+		"whiff-frames": 14,
+		"cancel-frames": null
+	},
+	"Serenity Stream (Exit)": {
+		"official-name": "Serenity Stream Exit",
+		"nickname": "Exit Stance",
+		"classic-command": "ss214P",
+		"hit-frames": null,
+		"whiff-frames": 23,
+		"cancel-frames": null
+	},
+	"Orchid Palm": {
+		"official-name": "Orchid Palm",
+		"nickname": "Stance LP",
+		"classic-command": "ssLP",
+		"modern-command": "",
+		"hit-frames": 34,
+		"whiff-frames": 25,
+		"cancel-frames": 14,
+		"standup-frames": 20
+	},
+	"Snake Strike": {
+		"official-name": "Snake Strike",
+		"nickname": "Stance MP",
+		"classic-command": "ssMP",
+		"modern-command": "",
+		"hit-frames": 47,
+		"whiff-frames": 36,
+		"cancel-frames": null,
+		"standup-frames": 18
+	},
+	"Lotus Fist": {
+		"official-name": "Lotus Fist",
+		"nickname": "Stance HP",
+		"classic-command": "ssHP",
+		"modern-command": "",
+		"hit-frames": 67,
+		"whiff-frames": 51,
+		"cancel-frames": 39
+	},
+	"Forward Strike": {
+		"official-name": "Forward Strike",
+		"nickname": "Stance LK",
+		"classic-command": "ssLK",
+		"modern-command": "",
+		"hit-frames": 34,
+		"whiff-frames": 25,
+		"cancel-frames": 17,
+		"standup-frames": 23
+	},
+	"Senpu Kick": {
+		"official-name": "Senpu Kick",
+		"nickname": "Stance MK",
+		"classic-command": "ssMK",
+		"modern-command": "",
+		"hit-frames": 47,
+		"whiff-frames": 36,
+		"cancel-frames": 21,
+		"standup-frames": 24
+	},
+	"Tenku Kick": {
+		"official-name": "Tenku Kick",
+		"nickname": "Stance HK",
+		"classic-command": "ssHK",
+		"modern-command": "",
+		"hit-frames": 47,
+		"whiff-frames": 36,
+		"cancel-frames": null
+	},
+	"Koshuto": {
+		"official-name": "Koshuto",
+		"nickname": "Forward Throw",
+		"classic-command": "5LP+LK",
+		"modern-command": "5L+M",
+		"hit-frames": "???",
+		"whiff-frames": 30,
+		"cancel-frames": null
+	},
+	"Taiji Fan": {
+		"official-name": "Taiji Fan",
+		"nickname": "Back Throw",
+		"classic-command": "4LP+LK",
+		"modern-command": "4L+M",
+		"hit-frames": "???",
+		"whiff-frames": 30,
+		"cancel-frames": null
+	},
+	"Hosen Kick": {
+		"official-name": "Hosen Kick",
+		"nickname": "Drive Impact",
+		"classic-command": "HP+HK",
+		"modern-command": "DI",
+		"hit-frames": 87,
+		"whiff-frames": 62,
+		"cancel-frames": null
+	},
+	"Hoyoku Kick": {
+		"official-name": "Hoyoku Kick",
+		"nickname": "Drive Reversal",
+		"classic-command": "6HP+HK during blockstun or parry stun",
+		"modern-command": "6DI during blockstun or parry stun",
+		"hit-frames": 68,
+		"whiff-frames": 48,
+		"cancel-frames": null
+	},
+	"LP Kikoken": {
+		"official-name": "LP Kikoken",
+		"nickname": "LP Fireball",
+		"classic-command": "[4]6LP",
+		"modern-command": "",
+		"hit-frames": 46,
+		"whiff-frames": 46,
+		"cancel-frames": 23
+	},
+	"MP Kikoken": {
+		"official-name": "MP Kikoken",
+		"nickname": "MP Fireball",
+		"classic-command": "[4]6MP",
+		"modern-command": "",
+		"hit-frames": 44,
+		"whiff-frames": 44,
+		"cancel-frames": 20
+	},
+	"HP Kikoken": {
+		"official-name": "HP Kikoken",
+		"nickname": "HP Fireball",
+		"classic-command": "[4]6HP",
+		"modern-command": "",
+		"hit-frames": 42,
+		"whiff-frames": 42,
+		"cancel-frames": 18
+	},
+	"OD Kikoken": {
+		"official-name": "OD Kikoken",
+		"nickname": "OD Fireball",
+		"classic-command": "[4]6PP",
+		"modern-command": "",
+		"hit-frames": 38,
+		"whiff-frames": 38,
+		"cancel-frames": 27
+	},
+	"LK Hundred Lightning Kicks": {
+		"official-name": "LK Hundred Lightning Kicks",
+		"nickname": "LK Legs",
+		"classic-command": "236LK",
+		"modern-command": "",
+		"hit-frames": 52,
+		"whiff-frames": 40,
+		"cancel-frames": "???"
+	},
+	"MK Hundred Lightning Kicks": {
+		"official-name": "MK Hundred Lightning Kicks",
+		"nickname": "MK Legs",
+		"classic-command": "236MK",
+		"modern-command": "",
+		"hit-frames": 69,
+		"whiff-frames": 54,
+		"cancel-frames": "???"
+	},
+	"HK Hundred Lightning Kicks": {
+		"official-name": "HK Hundred Lightning Kicks",
+		"nickname": "HK Legs",
+		"classic-command": "236HK",
+		"modern-command": "",
+		"hit-frames": 84,
+		"whiff-frames": 62,
+		"cancel-frames": "???"
+	},
+	"OD Hundred Lightning Kicks": {
+		"official-name": "OD Hundred Lightning Kicks",
+		"nickname": "EX Legs",
+		"classic-command": "236KK",
+		"modern-command": "",
+		"hit-frames": 68,
+		"whiff-frames": 54,
+		"cancel-frames": "???"
+	},
+	"Lightning Kicks Barrage": {
+		"official-name": "Lightning Kicks Barrage",
+		"nickname": "EX Legs Follow-Up",
+		"classic-command": "236KK > KK",
+		"modern-command": "",
+		"hit-frames": 91,
+		"whiff-frames": 73,
+		"cancel-frames": null
+	},
+	"LK Spinning Bird Kick": {
+		"official-name": "LK Spinning Bird Kick",
+		"nickname": "LK Bird Kick",
+		"classic-command": "[2]8LK",
+		"modern-command": "",
+		"hit-frames": 64,
+		"whiff-frames": 56,
+		"cancel-frames": null
+	},
+	"MK Spinning Bird Kick": {
+		"official-name": "MK Spinning Bird Kick",
+		"nickname": "MK Bird Kick",
+		"classic-command": "[2]8MK",
+		"modern-command": "",
+		"hit-frames": 89,
+		"whiff-frames": 77,
+		"cancel-frames": null
+	},
+	"HK Spinning Bird Kick": {
+		"official-name": "HK Spinning Bird Kick",
+		"nickname": "HK Bird Kick",
+		"classic-command": "[2]8HK",
+		"modern-command": "",
+		"hit-frames": 110,
+		"whiff-frames": 94,
+		"cancel-frames": null
+	},
+	"OD Spinning Bird Kick": {
+		"official-name": "OD Spinning Bird Kick",
+		"nickname": "EX Bird Kick",
+		"classic-command": "[2]8KK",
+		"modern-command": "",
+		"hit-frames": 98,
+		"whiff-frames": 78,
+		"cancel-frames": null
+	},
+	"LK Hazanshu": {
+		"official-name": "LK Hazanshu",
+		"nickname": "LK Hazanshu",
+		"classic-command": "214LK",
+		"modern-command": "",
+		"hit-frames": 58,
+		"whiff-frames": 45,
+		"cancel-frames": 36
+	},
+	"MK Hazanshu": {
+		"official-name": "MK Hazanshu",
+		"nickname": "MK Hazanshu",
+		"classic-command": "214MK",
+		"modern-command": "",
+		"hit-frames": 58,
+		"whiff-frames": 45,
+		"cancel-frames": 40
+	},
+	"HK Hazanshu": {
+		"official-name": "HK Hazanshu",
+		"nickname": "HK Hazanshu",
+		"classic-command": "214HK",
+		"modern-command": "",
+		"hit-frames": 63,
+		"whiff-frames": 52,
+		"cancel-frames": 45
+	},
+	"OD Hazanshu": {
+		"official-name": "OD Hazanshu",
+		"nickname": "EX Hazanshu",
+		"classic-command": "214KK",
+		"modern-command": "",
+		"hit-frames": 60,
+		"whiff-frames": 44,
+		"cancel-frames": 42
+	},
+	"LK Tenshokyaku": {
+		"official-name": "LK Tenshokyaku",
+		"nickname": "LK Up Kicks",
+		"classic-command": "22LK",
+		"modern-command": "",
+		"hit-frames": 68,
+		"whiff-frames": 57,
+		"cancel-frames": null
+	},
+	"MK Tenshokyaku": {
+		"official-name": "MK Tenshokyaku",
+		"nickname": "MK Up Kicks",
+		"classic-command": "22MK",
+		"modern-command": "",
+		"hit-frames": 74,
+		"whiff-frames": 63,
+		"cancel-frames": null
+	},
+	"HK Tenshokyaku": {
+		"official-name": "HK Tenshokyaku",
+		"nickname": "HK Up Kicks",
+		"classic-command": "22HK",
+		"modern-command": "",
+		"hit-frames": 100,
+		"whiff-frames": 81,
+		"cancel-frames": null
+	},
+	"OD Tenshokyaku": {
+		"official-name": "OD Tenshokyaku",
+		"nickname": "EX Up Kicks",
+		"classic-command": "22KK",
+		"modern-command": "",
+		"hit-frames": "???",
+		"whiff-frames": "???",
+		"cancel-frames": null
+	},
+	"Kikosho": {
+		"official-name": "Kikosho",
+		"nickname": "Level 1",
+		"classic-command": "236236P",
+		"modern-command": "H+S",
+		"hit-frames": 168,
+		"whiff-frames": 122,
+		"cancel-frames": null
+	},
+	"Hoyoku-sen": {
+		"official-name": "Hoyoku-sen",
+		"nickname": "Level 2",
+		"classic-command": "236236K",
+		"modern-command": "4H+S",
+		"hit-frames": 210,
+		"whiff-frames": 144,
+		"cancel-frames": "???"
+	},
+	"Soten Ranka": {
+		"official-name": "Soten Ranka",
+		"nickname": "Level 3",
+		"classic-command": "214214K",
+		"modern-command": "2H+S",
+		"hit-frames": "???",
+		"whiff-frames": 82,
+		"cancel-frames": null
+	}
+}
